@@ -11,8 +11,8 @@ And besides my full time job as a software engineer, I am also passionate about 
 My greatest technical interest is 'Code Quality'. 
 
 If you wish, you could reach out to me through:   
-Email Address: alsayed.alsisi@gmail.com
-LinkedIn: https://www.linkedin.com/in/alsayed-alsisi/
+Email Address: alsayed.alsisi@gmail.com    
+LinkedIn: https://www.linkedin.com/in/alsayed-alsisi/   
 <!---
 AlsayedAlsisi/AlsayedAlsisi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

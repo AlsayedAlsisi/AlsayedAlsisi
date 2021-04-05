@@ -1,6 +1,6 @@
-Hello there, 
-Welcome to my GitHub profile! 
-This is a brief introduction about myself:
+Hello there,   
+Welcome to my GitHub profile!  
+This is a brief introduction about myself:  
 
 I am an embedded systems lover, knowledge seeker, and curious learner. 
 
